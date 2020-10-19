@@ -1,8 +1,6 @@
-# InsFollow
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-8J6nXMm4Fn4/X1nN5SrLvkI/AAAAAAAAAQ0/J8TNfruwGEgiAfOKxIiRD_q3dKOGUl-XQCLcBGAsYHQ/s530/Screenshot_20200910_122015.png" width="470" height="250">
-</p>
-Best Tool For Increase Instagram Follower.
+# InstaFollow
+
+Best Tool For Increase Instagram Followers.
 
 ## Requirements
 1. openssl
@@ -18,7 +16,7 @@ Best Tool For Increase Instagram Follower.
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/insfollow`
+`$ git clone https://github.com/InukaAsith/Instafollow.git
 
 `$ cd insfollow`
 
@@ -28,17 +26,15 @@ Best Tool For Increase Instagram Follower.
 
 `$ bash insfollow.sh`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/rAUuatLnBVo
----
+
 
 <p align="center">
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/c/TermuxProfessorYT">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
+  <a href="https://t.me/InukaASiTH">
+    <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" width="40" height="40">
   </a>
-  <a href="https://www.instagram.com/termuxprofessor/">
+  <a href="https://www.instagram.com/inukaasith6/">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
 </p>
